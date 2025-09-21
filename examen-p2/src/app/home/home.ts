@@ -2,12 +2,12 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-home',
-   standalone: true,
+  standalone: true,
   imports: [],
   templateUrl: './home.html',
-  styleUrl: './home.scss'
+  styleUrls: ['./home.scss']   // 👈 corregido (plural)
 })
-export class Home {
+export class HomeComponent {   // 👈 corregido (Home → HomeComponent)
   // Solicitar permiso al usuario
   requestPermission() {
     if (!('Notification' in window)) {

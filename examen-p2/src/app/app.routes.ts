@@ -1,6 +1,6 @@
 import { Routes } from '@angular/router';
 import { Layout } from './layout/layout';
-import { Home } from './home/home';
+import { HomeComponent } from './home/home';
 import { About } from './about/about';
 import { Contact } from './contact/contact';
 
@@ -12,7 +12,7 @@ export const routes: Routes = [
         
       {
         path: '',
-        component: Home,
+        component: HomeComponent,
         title: 'Inicio'
       },
       {
