@@ -1,8 +1,10 @@
+import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-ui',
-  imports: [],
+  standalone: true,
+  imports: [CommonModule], 
   templateUrl: './ui.html',
   styleUrl: './ui.scss'
 })
