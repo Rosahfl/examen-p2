@@ -25,6 +25,7 @@ export const routes: Routes = [
         component: Contact,
         title: 'Contacto'
       }
+      
     ]
   },
   // RUTA WILDCARD (importante en producción)
