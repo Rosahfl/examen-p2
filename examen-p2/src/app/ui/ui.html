@@ -1,0 +1,29 @@
+<div class="container my-5">
+  <h2 class="mb-4">Demo de componentes Bootstrap</h2>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+    <a class="navbar-brand" href="#">Navbar</a>
+  </nav>
+
+  <!-- Grid / Cards -->
+  <div class="row">
+    <div class="col-md-4" *ngFor="let card of [1,2,3]">
+      <div class="card mb-4">
+        <div class="card-body">
+          <h5 class="card-title">Card {{card}}</h5>
+          <p class="card-text">Ejemplo de card responsive.</p>
+          <button class="btn btn-primary">Acción</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Botones -->
+  <div class="mt-4">
+    <button class="btn btn-primary me-2">Primario</button>
+    <button class="btn btn-success me-2">Éxito</button>
+    <button class="btn btn-danger">Peligro</button>
+  </div>
+</div>
+
