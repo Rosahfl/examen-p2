@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758517795175,
+  "timestamp": 1758519895116,
   "index": "/pwaexamen-p2/index.csr.html",
   "assetGroups": [
     {
@@ -51,8 +51,8 @@
     "/pwaexamen-p2/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/pwaexamen-p2/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/pwaexamen-p2/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/pwaexamen-p2/index.csr.html": "987156aa73a88aef0a7c5103469c88848a9e9d2a",
-    "/pwaexamen-p2/index.html": "ab397c309cb6835e1a9e5a28e54409d294b54b21",
+    "/pwaexamen-p2/index.csr.html": "74a9f089b54386dd23216c7d3a53695391644f7e",
+    "/pwaexamen-p2/index.html": "79504b344f0a3bbccbbfb925e0345a3d9eac42dc",
     "/pwaexamen-p2/main-JHWZS2AX.js": "881725cca16c6d9985cd5b4c2431a3fb6307c4c8",
     "/pwaexamen-p2/manifest.webmanifest": "eb39202a735c6d3f52395aebc4b608534bd485b1",
     "/pwaexamen-p2/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
