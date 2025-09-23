@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1758519895116,
-  "index": "/pwaexamen-p2/index.csr.html",
+  "timestamp": 1758637172632,
+  "index": "/pwaexamen2/index.csr.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/pwaexamen-p2/favicon.ico",
-        "/pwaexamen-p2/index.csr.html",
-        "/pwaexamen-p2/index.html",
-        "/pwaexamen-p2/main-JHWZS2AX.js",
-        "/pwaexamen-p2/manifest.webmanifest",
-        "/pwaexamen-p2/styles-5INURTSO.css"
+        "/pwaexamen2/favicon.ico",
+        "/pwaexamen2/index.csr.html",
+        "/pwaexamen2/index.html",
+        "/pwaexamen2/main-HNJYD3MD.js",
+        "/pwaexamen2/manifest.webmanifest",
+        "/pwaexamen2/styles-LO7VR3SJ.css"
       ],
       "patterns": []
     },
@@ -28,34 +28,34 @@
         "ignoreVary": true
       },
       "urls": [
-        "/pwaexamen-p2/icons/icon-128x128.png",
-        "/pwaexamen-p2/icons/icon-144x144.png",
-        "/pwaexamen-p2/icons/icon-152x152.png",
-        "/pwaexamen-p2/icons/icon-192x192.png",
-        "/pwaexamen-p2/icons/icon-384x384.png",
-        "/pwaexamen-p2/icons/icon-512x512.png",
-        "/pwaexamen-p2/icons/icon-72x72.png",
-        "/pwaexamen-p2/icons/icon-96x96.png"
+        "/pwaexamen2/icons/icon-128x128.png",
+        "/pwaexamen2/icons/icon-144x144.png",
+        "/pwaexamen2/icons/icon-152x152.png",
+        "/pwaexamen2/icons/icon-192x192.png",
+        "/pwaexamen2/icons/icon-384x384.png",
+        "/pwaexamen2/icons/icon-512x512.png",
+        "/pwaexamen2/icons/icon-72x72.png",
+        "/pwaexamen2/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/pwaexamen-p2/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/pwaexamen-p2/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/pwaexamen-p2/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/pwaexamen-p2/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/pwaexamen-p2/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/pwaexamen-p2/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/pwaexamen-p2/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/pwaexamen-p2/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/pwaexamen-p2/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/pwaexamen-p2/index.csr.html": "74a9f089b54386dd23216c7d3a53695391644f7e",
-    "/pwaexamen-p2/index.html": "79504b344f0a3bbccbbfb925e0345a3d9eac42dc",
-    "/pwaexamen-p2/main-JHWZS2AX.js": "881725cca16c6d9985cd5b4c2431a3fb6307c4c8",
-    "/pwaexamen-p2/manifest.webmanifest": "eb39202a735c6d3f52395aebc4b608534bd485b1",
-    "/pwaexamen-p2/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/pwaexamen2/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/pwaexamen2/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/pwaexamen2/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/pwaexamen2/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/pwaexamen2/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/pwaexamen2/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/pwaexamen2/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/pwaexamen2/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/pwaexamen2/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/pwaexamen2/index.csr.html": "2c4a1a868ab319d2d8647e387147067a3925cb98",
+    "/pwaexamen2/index.html": "8ae3bf0d3c517754ecd4e8eec2a3a4854a7d7cdb",
+    "/pwaexamen2/main-HNJYD3MD.js": "61abddfd688160baf26b95030d51cf39adda2cd6",
+    "/pwaexamen2/manifest.webmanifest": "eb39202a735c6d3f52395aebc4b608534bd485b1",
+    "/pwaexamen2/styles-LO7VR3SJ.css": "6754fc91ff2b1d6bf00bca01eaa76f6b8c72fced"
   },
   "navigationUrls": [
     {
