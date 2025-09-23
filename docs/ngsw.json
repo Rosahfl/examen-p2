@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1758637172632,
-  "index": "/pwaexamen2/index.csr.html",
+  "timestamp": 1758638227811,
+  "index": "/examen-p2/index.csr.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/pwaexamen2/favicon.ico",
-        "/pwaexamen2/index.csr.html",
-        "/pwaexamen2/index.html",
-        "/pwaexamen2/main-HNJYD3MD.js",
-        "/pwaexamen2/manifest.webmanifest",
-        "/pwaexamen2/styles-LO7VR3SJ.css"
+        "/examen-p2/favicon.ico",
+        "/examen-p2/index.csr.html",
+        "/examen-p2/index.html",
+        "/examen-p2/main-HNJYD3MD.js",
+        "/examen-p2/manifest.webmanifest",
+        "/examen-p2/styles-LO7VR3SJ.css"
       ],
       "patterns": []
     },
@@ -28,34 +28,34 @@
         "ignoreVary": true
       },
       "urls": [
-        "/pwaexamen2/icons/icon-128x128.png",
-        "/pwaexamen2/icons/icon-144x144.png",
-        "/pwaexamen2/icons/icon-152x152.png",
-        "/pwaexamen2/icons/icon-192x192.png",
-        "/pwaexamen2/icons/icon-384x384.png",
-        "/pwaexamen2/icons/icon-512x512.png",
-        "/pwaexamen2/icons/icon-72x72.png",
-        "/pwaexamen2/icons/icon-96x96.png"
+        "/examen-p2/icons/icon-128x128.png",
+        "/examen-p2/icons/icon-144x144.png",
+        "/examen-p2/icons/icon-152x152.png",
+        "/examen-p2/icons/icon-192x192.png",
+        "/examen-p2/icons/icon-384x384.png",
+        "/examen-p2/icons/icon-512x512.png",
+        "/examen-p2/icons/icon-72x72.png",
+        "/examen-p2/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/pwaexamen2/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/pwaexamen2/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/pwaexamen2/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/pwaexamen2/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/pwaexamen2/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/pwaexamen2/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/pwaexamen2/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/pwaexamen2/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/pwaexamen2/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/pwaexamen2/index.csr.html": "2c4a1a868ab319d2d8647e387147067a3925cb98",
-    "/pwaexamen2/index.html": "8ae3bf0d3c517754ecd4e8eec2a3a4854a7d7cdb",
-    "/pwaexamen2/main-HNJYD3MD.js": "61abddfd688160baf26b95030d51cf39adda2cd6",
-    "/pwaexamen2/manifest.webmanifest": "eb39202a735c6d3f52395aebc4b608534bd485b1",
-    "/pwaexamen2/styles-LO7VR3SJ.css": "6754fc91ff2b1d6bf00bca01eaa76f6b8c72fced"
+    "/examen-p2/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/examen-p2/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/examen-p2/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/examen-p2/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/examen-p2/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/examen-p2/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/examen-p2/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/examen-p2/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/examen-p2/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/examen-p2/index.csr.html": "b13af58de4c3cfd8ead968dbe31c0d9e6e485857",
+    "/examen-p2/index.html": "c2396b303d009aa69b27b57b587e8a4752182961",
+    "/examen-p2/main-HNJYD3MD.js": "61abddfd688160baf26b95030d51cf39adda2cd6",
+    "/examen-p2/manifest.webmanifest": "eb39202a735c6d3f52395aebc4b608534bd485b1",
+    "/examen-p2/styles-LO7VR3SJ.css": "6754fc91ff2b1d6bf00bca01eaa76f6b8c72fced"
   },
   "navigationUrls": [
     {
